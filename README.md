@@ -1,5 +1,12 @@
 ## Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px">, I´m Julie
 
+I’m an aspiring Full-Stack Engineer passionate about building dynamic and scalable applications. Here’s a bit about me:
+
+🚀 Driven by Curiosity – I’m always exploring new tech and finding ways to improve my skills.
+📚 Lifelong Learner – Committed to continuous learning and growth in the field.
+💻 Front-End & Back-End Foundation – Strong in both creating engaging user experiences and building robust backend services.
+🎯 Focused on Full-Stack Mastery – Bringing together seamless, powerful user experiences with reliable backend architecture is my current mission.
+
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=julihejt&show_icons=true"/>
 
 <img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julihejt&layout=donut"/>
